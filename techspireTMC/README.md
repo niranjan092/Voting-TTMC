@@ -42,6 +42,8 @@ export default defineConfig([
       // other options...
     },
   },
+
+    <!-- Redeploy trigger: 2026-05-24T15:30:00Z -->
 ])
 ```
 
